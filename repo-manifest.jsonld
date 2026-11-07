@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/S2AFF/commit/87dce9fdcb1cf2ec7dfc28559c823eca70e5b39a",
       "git:hexsha": "87dce9fdcb1cf2ec7dfc28559c823eca70e5b39a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
