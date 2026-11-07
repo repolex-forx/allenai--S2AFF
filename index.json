@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "S2AFF",
+  "versions": [
+    {
+      "commit": "87dce9fdcb1cf2ec7dfc28559c823eca70e5b39a",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:33:06.561750+00:00"
+    }
+  ]
+}
